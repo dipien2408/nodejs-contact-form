@@ -1,21 +1,21 @@
-## Nodejs-contact-form
+# Nodejs-contact-form
 
-# Basic Node.js application using ExpressJS and Nodemailer to send emails 
+### Basic Node.js application using ExpressJS and Nodemailer to send emails 
 - Please add your own SMTP info for it to work 
 
-# Install Dependencies
+### Install Dependencies
 
 ```console
 npm install
 ```
 
-# Running app
+### Running app
 
 ```console
 npm start
 ```
 
-# Usage
+### Usage
 * Marketing on E-commerce website like Mailchimp 
 * Reset user password 
 * User verification
